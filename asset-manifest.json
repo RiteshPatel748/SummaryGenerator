@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SummaryGenerator.git/static/css/main.ae51c0bc.css",
+    "main.js": "/SummaryGenerator.git/static/js/main.35e53a3c.js",
+    "static/js/787.20d92ab1.chunk.js": "/SummaryGenerator.git/static/js/787.20d92ab1.chunk.js",
+    "index.html": "/SummaryGenerator.git/index.html",
+    "main.ae51c0bc.css.map": "/SummaryGenerator.git/static/css/main.ae51c0bc.css.map",
+    "main.35e53a3c.js.map": "/SummaryGenerator.git/static/js/main.35e53a3c.js.map",
+    "787.20d92ab1.chunk.js.map": "/SummaryGenerator.git/static/js/787.20d92ab1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae51c0bc.css",
+    "static/js/main.35e53a3c.js"
+  ]
+}
