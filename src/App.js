@@ -47,7 +47,6 @@ function App() {
         <textarea id="pitchDeckText" value={pitchDeckText} onChange={(e) => setPitchDeckText(e.target.value)} />
         <div style={{flexDirection:'row',alignSelf:'end'}} >
           <button onClick={onSummary}>{loading}</button>
-          <button onClick={onHistory} >View History</button>
         </div>
       </form>
       {summary && (
